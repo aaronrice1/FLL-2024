@@ -1,3 +1,8 @@
 # FLL-2024
 Code for FLL
-YAY!
+
+Movement Motors: A, B
+
+Attachment Motors: F, 
+
+Color Sensor: E
