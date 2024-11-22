@@ -3,6 +3,4 @@ Code for FLL
 
 Movement Motors: A, B
 
-Attachment Motors: F, 
-
-Color Sensor: E
+Attachment Motors: C, D
